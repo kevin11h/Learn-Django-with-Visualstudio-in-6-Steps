@@ -1,5 +1,11 @@
 # Learn-Django-with-Visualstudio-in-6-Steps
 
+* :heavy_check_mark: create django project in git repo template
+* :heavy_check_mark: render page w template
+* :heavy_check_mark: serve static files + add pages + template inheritance
+* :heavy_check_mark: multiple pages + responsive design
+* :heavy_check_mark: models + database migrations + customize administration database
+
 # Step 1.
 ## Create VS Project + Solution
 
